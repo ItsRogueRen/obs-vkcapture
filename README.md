@@ -29,9 +29,9 @@ For Arch install the following:
 
 For Ubuntu install the following:
 * git
+* cmake
 * ffmpeg
 * pkg-config
-* cmake
 * obs-studio
 * libvulkan-dev
 * libgl1-mesa-dev
