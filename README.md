@@ -16,6 +16,7 @@ For capturing games outside Flatpak runtime, you need native build regardless of
 
 ## Dependencies
 
+For Arch install the following:
 * cmake
 * libobs
 * libvulkan
@@ -25,6 +26,20 @@ For capturing games outside Flatpak runtime, you need native build regardless of
 * libxcb (optional)
 * libwayland-client (optional)
 * wayland-scanner (optional)
+
+For Ubuntu install the following:
+* git
+* ffmpeg
+* pkg-config
+* cmake
+* obs-studio
+* libvulkan-dev
+* libgl1-mesa-dev
+* libegl1-mesa-dev
+* libx11-dev (optional)
+* libxcb1-dev (optional)
+* libwayland-dev (optional)
+* wayland-protocols (optional)
 
 ## Building
 
